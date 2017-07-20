@@ -1,0 +1,16 @@
+{
+    "users": [
+        "00546000000Z9E8AAK"
+    ],
+    "levels": {
+        "Workflow": "INFO",
+        "Callout": "INFO",
+        "System": "DEBUG",
+        "Database": "INFO",
+        "ApexCode": "DEBUG",
+        "ApexProfiling": "INFO",
+        "Validation": "INFO",
+        "Visualforce": "DEBUG"
+    },
+    "expiration": 480
+}

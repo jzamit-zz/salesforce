@@ -1,0 +1,17 @@
+{
+    "projectName": "Salesforce Skills",
+    "username": "trailhead@oktana.io",
+    "id": "fe0a1470-6cea-11e7-8fff-1964654aa02d",
+    "namespace": "",
+    "environment": "developer",
+    "loginUrl": "https://login.salesforce.com/",
+    "workspace": "/home/developer/sublime-workspace",
+    "subscription": [
+        "ApexClass",
+        "ApexComponent",
+        "ApexPage",
+        "ApexTrigger",
+        "Flexipage",
+        "StaticResource"
+    ]
+}
